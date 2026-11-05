@@ -1,0 +1,5 @@
+STEP 1    .venv\Scripts\activate
+STEP 2    dir
+STEP 3    cd MediMind-AI
+STEP 4    pip install -r requirements.txt
+STEP 5    python app.py
